@@ -8,6 +8,7 @@ hiiiii Himanshu here
 **bold**
 __bold__
 *italic*
+----------------
 ***italic bold***
 
 ``` c++
