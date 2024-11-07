@@ -17,3 +17,10 @@ __bold__
 
 ```
 ---
+
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
